@@ -1,0 +1,44 @@
+[00:23:58] [Server thread/INFO]: Made Smiley a server operator
+[00:24:13] [Server thread/INFO]: Made Smiley no longer a server operator
+[00:24:16] [Server thread/INFO]: Unknown command
+[00:24:16] [Server thread/INFO]: <--[HERE]
+[00:24:16] [Server thread/INFO]: Unknown command
+[00:24:16] [Server thread/INFO]: <--[HERE]
+[00:24:16] [Server thread/INFO]: Unknown command
+[00:24:16] [Server thread/INFO]: <--[HERE]
+[00:24:18] [Server thread/INFO]: Unknown command
+[00:24:18] [Server thread/INFO]: <--[HERE]
+[00:24:18] [Server thread/INFO]: Unknown command
+[00:24:18] [Server thread/INFO]: <--[HERE]
+[00:24:19] [Server thread/INFO]: Unknown command
+[00:24:19] [Server thread/INFO]: <--[HERE]
+[00:24:19] [Server thread/INFO]: Unknown command
+[00:24:19] [Server thread/INFO]: <--[HERE]
+[00:24:19] [Server thread/INFO]: Unknown command
+[00:24:19] [Server thread/INFO]: <--[HERE]
+[00:24:19] [Server thread/INFO]: Unknown command
+[00:24:19] [Server thread/INFO]: <--[HERE]
+[00:24:19] [Server thread/INFO]: Unknown command
+[00:24:19] [Server thread/INFO]: <--[HERE]
+[00:24:19] [Server thread/INFO]: Unknown command
+[00:24:19] [Server thread/INFO]: <--[HERE]
+[00:24:19] [Server thread/INFO]: Unknown command
+[00:24:19] [Server thread/INFO]: <--[HERE]
+[00:25:25] [User Authenticator #1/INFO]: UUID of player Minzkraut is 5e34b0ef-de9d-401f-849e-530de75ad2be
+[00:25:25] [Server thread/INFO]: Minzkraut[/31.150.226.216:1684] logged in with entity id 81 at (-216.1733593132792, 103.54077107004326, 623.6119825417106)
+[00:25:25] [Server thread/INFO]: Minzkraut joined the game
+[00:25:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[00:25:50] [Server thread/INFO]: [Minzkraut: Set own game mode to Survival Mode]
+[00:25:51] [Server thread/INFO]: Minzkraut fell from a high place
+[00:25:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3022ms or 60 ticks behind
+[00:26:08] [Server thread/INFO]: [Minzkraut: Set own game mode to Creative Mode]
+[00:34:26] [Server thread/INFO]: Minzkraut lost connection: Disconnected
+[00:34:26] [Server thread/INFO]: Minzkraut left the game
+[00:34:42] [Server thread/INFO]: Unknown command
+[00:34:42] [Server thread/INFO]: /motd<--[HERE]
+[08:52:46] [User Authenticator #2/INFO]: UUID of player Minzkraut is 5e34b0ef-de9d-401f-849e-530de75ad2be
+[08:52:46] [Server thread/INFO]: Minzkraut[/31.150.243.139:50759] logged in with entity id 1440 at (-262.52812969477725, 63.0, 21.44411041267044)
+[08:52:46] [Server thread/INFO]: Minzkraut joined the game
+[08:55:01] [Server thread/INFO]: Minzkraut lost connection: Disconnected
+[08:55:01] [Server thread/INFO]: Minzkraut left the game
+[09:33:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
